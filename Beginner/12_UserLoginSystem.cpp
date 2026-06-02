@@ -1,6 +1,7 @@
-#include <iostream>
-#include <string>
-using namespace std;
+#include <iostream>   // iostream is used for input and output operations 
+#include <string>     // string library is used to handle text (book names)
+
+using namespace std;  // Allows using standard functions without writing std::
 
 int main() {
 

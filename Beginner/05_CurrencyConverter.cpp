@@ -10,8 +10,8 @@ int main() {
     int choice;
 
     // Fixed exchange rates (example values)
-    double usd_rate = 45.93;  // 1 USD = 34 TL (example)
-    double eur_rate = 53.45;  // 1 EUR = 37 TL (example)
+    double usd_rate = 45.93;  // 1 USD = 45.93 TL (example)
+    double eur_rate = 53.45;  // 1 EUR = 53.45 TL (example)
 
     // Ask user to enter amount in TL
     cout << "TL amount: ";
